@@ -1,13 +1,3 @@
-## Hi there 👋
-
-# Vladislav Kurganov
-
-## Contacts
-- **Email:** vkurganov05@gmail.com  
-- **GitHub:** [github.com/InSleepMode](https://github.com/InSleepMode)  
-- **Codewars:** [codewars.com/users/InSleepMode](https://www.codewars.com/users/InSleepMode)  
-
----
 
 ## About myself
 - **Education:**
