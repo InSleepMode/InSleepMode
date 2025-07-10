@@ -3,25 +3,23 @@
 - **Education:**
   - Gymnasium 40 of "Y.A.Gagarin" (2013-2024)  
   - SPbU student PM-PU (2024-2028)  
-- **Goals I would like to achieve:**
-  - Fundamental knowledge in C++ 
-  - Maths skills  
-  - Enhance skills in coding  
+- **Goals:**
+  - Fundamental C++ 
+  - Maths skills
   - Learn OSINT and Cybersecurity  
   - Work with Linux  
 - **Interests:**
   - Coding  
   - Cybersecurity  
   - Learning foreign languages  
-  - 3D modeling
-  - Web3 technologies, TON ecosystem 
+  - 3D modeling 
 
 ---
 
 ## Skills
 - **Programming Languages:** C++, Python (Basics)  
 - **3D Modelling:** Blender  
-- **OSINT:** use Maltego, Google dorks, tested some tools from GitHub
+- **OSINT:** Maltego, Google dorks, tested some tools from GitHub
 
 ---
 
