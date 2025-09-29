@@ -2,24 +2,14 @@
 ## About myself
 - **Education:**
   - Gymnasium 40 of "Y.A.Gagarin" (2013-2024)  
-  - SPbU student PM-PU (2024-2028)  
-- **Goals:**
-  - Fundamental C++ 
-  - Maths skills
-  - Learn OSINT and Cybersecurity  
-  - Work with Linux  
-- **Interests:**
-  - Coding  
-  - Cybersecurity  
-  - Learning foreign languages  
-  - 3D modeling 
-
+  - SPbU student PM-PU (2024-2028)
+  - 
 ---
 
 ## Skills
-- **Programming Languages:** C++, Python (Basics)  
+- **Programming Languages:** C++, Python, Solidity(Basics) 
 - **3D Modelling:** Blender  
-- **OSINT:** Maltego, Google dorks, tested some tools from GitHub
+- **OSINT:** Maltego, NMAP, Google dorks, tested some tools from GitHub
 
 ---
 
@@ -42,7 +32,7 @@
   - **MatrixCalculator** (https://github.com/amcp-pit/op24-task6-matrixcalc-InSleepMode)
   - **Text2Table** (https://github.com/InSleepMode/text2table)
   - **Base32 code/decode** (https://github.com/amcp-pit/op24-task9-crockford-InSleepMode)
-- *Recent ones(2025)*:
+- *Some projects(2025)*:
   - **Class DateTime** (https://github.com/amcp-pit/task1-datetime-InSleepMode)
   - **Simple StockExchange** (https://github.com/amcp-pit/task2-stock-exchange-InSleepMode)
   - **TuringMachine** (https://github.com/amcp-pit/task3-busy-beaver-InSleepMode)
