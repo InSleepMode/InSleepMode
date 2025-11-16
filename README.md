@@ -3,27 +3,23 @@
 - **Education:**
   - Gymnasium 40 of "Y.A.Gagarin" (2013-2024)  
   - SPbU student PM-PU (2024-2028)
-  - 
 ---
 
 ## Skills
 - **Programming Languages:** C++, Python, Solidity(Basics) 
 - **3D Modelling:** Blender  
 - **OSINT:** Maltego, NMAP, Google dorks, tested some tools from GitHub
-
 ---
 
 ## Foreign languages
 - **English:** Level (C1)  
 - **German:** Level (A2)  
-
 ---
 
 ## Codewars
 - [Codewars profile](https://www.codewars.com/users/InSleepMode)  
   - **Rating:** 4 kyu  
-  - **Total Completed Kata:** 80+
-  
+  - **Total Completed Kata:** 90+
 ---
 ## Some of my projects
 - *Some projects(2024)*:
@@ -37,3 +33,6 @@
   - **Simple StockExchange** (https://github.com/amcp-pit/task2-stock-exchange-InSleepMode)
   - **TuringMachine** (https://github.com/amcp-pit/task3-busy-beaver-InSleepMode)
   - **BigInteger** (https://github.com/amcp-pit/task4-rsa-InSleepMode)
+  - **Post machine** (https://github.com/amcp-pit/pl-post-machine-InSleepMode)
+  - **SHA256** (https://github.com/InSleepMode/SHA-256) in progress
+  - **PokeSharp** (https://github.com/InSleepMode/PokeSharp)
