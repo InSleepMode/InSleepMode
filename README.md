@@ -2,13 +2,14 @@
 ## About myself
 - **Education:**
   - Gymnasium 40 of "Y.A.Gagarin" (2013-2024)  
-  - SPbU student PM-PU (2024-2028)
+  - SPbU student AMCP (2024-2028)
 ---
 
 ## Skills
 - **Programming Languages:** C++, Python, Solidity(Basics) 
 - **3D Modelling:** Blender  
 - **OSINT:** Maltego, NMAP, Google dorks, tested some tools from GitHub
+- **Computer Graphics**
 ---
 
 ## Foreign languages
@@ -36,3 +37,11 @@
   - **Post machine** (https://github.com/amcp-pit/pl-post-machine-InSleepMode)
   - **SHA256** (https://github.com/InSleepMode/SHA-256) in progress
   - **PokeSharp** (https://github.com/InSleepMode/PokeSharp)
+- *Computer Graphics algorithms(2025)*
+  - **Bresenham line algorithm** (https://github.com/amcp-pit/cg-task1-lines-InSleepMode)
+  - **Bresenham circles algorithm** (https://github.com/amcp-pit/cg-task2-circles-InSleepMode)
+  - **Polygon color fill algorithm** (https://github.com/amcp-pit/cg-task3-polygon-InSleepMode)
+  - **Circle color fill algorithm** (https://github.com/amcp-pit/cg-task4-disk-InSleepMode)
+  - **Crop algorithm** (https://github.com/amcp-pit/cg-task5-crop-InSleepMode)
+- *Some projects(2026)*
+  - **coming soon**
