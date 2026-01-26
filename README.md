@@ -6,7 +6,7 @@
 ---
 
 ## Skills
-- **Programming Languages:** C++, С#, Python, Solidity(Basics) 
+- **Programming Languages:** C++, C, С#, Python, Solidity(Basics) 
 - **3D Modelling:** Blender  
 - **OSINT:** Maltego, NMAP, Google dorks, tested some tools from GitHub
 - **Computer Graphics**
