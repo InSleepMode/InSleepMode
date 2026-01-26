@@ -44,4 +44,6 @@
   - **Circle color fill algorithm** (https://github.com/amcp-pit/cg-task4-disk-InSleepMode)
   - **Crop algorithm** (https://github.com/amcp-pit/cg-task5-crop-InSleepMode)
 - *Some projects(2026)*
-  - **coming soon**
+  - **C++ MATLAB** (https://github.com/amcp-pit/pl-matrixlab-InSleepMode)
+  - **C++ Boolean Expression Calculator** (https://github.com/amcp-pit/pl-boolcalc-InSleepMode)
+  
