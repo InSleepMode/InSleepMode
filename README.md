@@ -6,7 +6,7 @@
 ---
 
 ## Skills
-- **Programming Languages:** C++, C, С#, Python, Solidity(Basics) 
+- **Programming Languages:** C++, C, С#, Python, Solidity(Basics), Golang
 - **3D Modelling:** Blender  
 - **OSINT:** Maltego, NMAP, Google dorks, tested some tools from GitHub
 - **Computer Graphics**
@@ -32,10 +32,10 @@
 - *Some projects(2025)*:
   - **Class DateTime** (https://github.com/amcp-pit/task1-datetime-InSleepMode)
   - **Simple StockExchange** (https://github.com/amcp-pit/task2-stock-exchange-InSleepMode)
-  - **TuringMachine** (https://github.com/amcp-pit/task3-busy-beaver-InSleepMode)
   - **BigInteger** (https://github.com/amcp-pit/task4-rsa-InSleepMode)
   - **Post machine** (https://github.com/amcp-pit/pl-post-machine-InSleepMode)
   - **SHA256** (https://github.com/InSleepMode/SHA-256) in progress
+  - **RSA** (https://github.com/amcp-pit/task4-rsa-InSleepMode)
   - **PokeSharp** (https://github.com/InSleepMode/PokeSharp)
 - *Computer Graphics algorithms(2025)*
   - **Bresenham line algorithm** (https://github.com/amcp-pit/cg-task1-lines-InSleepMode)
@@ -46,4 +46,8 @@
 - *Some projects(2026)*
   - **C++ MATLAB** (https://github.com/amcp-pit/pl-matrixlab-InSleepMode)
   - **C++ Boolean Expression Calculator** (https://github.com/amcp-pit/pl-boolcalc-InSleepMode)
+- *Machines realisation in C++ (2025-2026)*
+  - **TuringMachine** (https://github.com/amcp-pit/task3-busy-beaver-InSleepMode)
+  - **PostMachine** (https://github.com/amcp-pit/pl-post-machine-InSleepMode)
+  - **Brain Fck** (https://github.com/amcp-pit/pl-brainfuck-InSleepMode)
   
