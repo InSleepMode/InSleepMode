@@ -20,7 +20,7 @@
 ## Codewars
 - [Codewars profile](https://www.codewars.com/users/InSleepMode)  
   - **Rating:** 4 kyu  
-  - **Total Completed Kata:** 90+
+  - **Total Completed Kata:** 100+
 ---
 ## Some of my projects
 - *Some projects(2024)*:
