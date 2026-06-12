@@ -1,20 +1,16 @@
 
 ## About myself
 - **Education:**
-  - Gymnasium 40 of "Y.A.Gagarin" (2013-2024)  
   - SPbU student AMCP (2024-2028)
 ---
 
 ## Skills
-- **Programming Languages:** C++, C, С#, Python, Solidity(Basics), Golang
-- **3D Modelling:** Blender  
-- **OSINT:** Maltego, NMAP, Google dorks, tested some tools from GitHub
-- **Computer Graphics**
+- **Programming Languages:** C++, C, С#, Python, Golang
+- **Algorithms and data structures**
 ---
 
 ## Foreign languages
 - **English:** Level (C1)  
-- **German:** Level (A2)  
 ---
 
 ## Codewars
@@ -22,31 +18,21 @@
   - **Rating:** 4 kyu  
   - **Total Completed Kata:** 100+
 ---
-## Some of my projects
-- *Some projects(2024)*:
-  - **Calendar** (https://github.com/amcp-pit/op24-task5-calendar-InSleepMode)
-  - **Converter** (https://github.com/amcp-pit/op24-task3-converter-InSleepMode)
-  - **MatrixCalculator** (https://github.com/amcp-pit/op24-task6-matrixcalc-InSleepMode)
-  - **Text2Table** (https://github.com/InSleepMode/text2table)
-  - **Base32 code/decode** (https://github.com/amcp-pit/op24-task9-crockford-InSleepMode)
-- *Some projects(2025)*:
-  - **Class DateTime** (https://github.com/amcp-pit/task1-datetime-InSleepMode)
-  - **Simple StockExchange** (https://github.com/amcp-pit/task2-stock-exchange-InSleepMode)
-  - **BigInteger** (https://github.com/amcp-pit/task4-rsa-InSleepMode)
-  - **Post machine** (https://github.com/amcp-pit/pl-post-machine-InSleepMode)
-  - **SHA256** (https://github.com/InSleepMode/SHA-256) in progress
-  - **RSA** (https://github.com/amcp-pit/task4-rsa-InSleepMode)
+## Syberix (CEO)
+ - link for a project: (https://github.com/Siberyx)
+ - A system for analyzing and forecasting cryptocurrency and foreign exchange markets using data and technical analysis.
+ - SmartMoney concept and Technical Analysis strategy creator 
+## Pokemon Game in C# with Godot Engine
   - **PokeSharp** (https://github.com/InSleepMode/PokeSharp)
-- *Computer Graphics algorithms(2025)*
-  - **Bresenham line algorithm** (https://github.com/amcp-pit/cg-task1-lines-InSleepMode)
-  - **Bresenham circles algorithm** (https://github.com/amcp-pit/cg-task2-circles-InSleepMode)
-  - **Polygon color fill algorithm** (https://github.com/amcp-pit/cg-task3-polygon-InSleepMode)
-  - **Circle color fill algorithm** (https://github.com/amcp-pit/cg-task4-disk-InSleepMode)
-  - **Crop algorithm** (https://github.com/amcp-pit/cg-task5-crop-InSleepMode)
-- *Some projects(2026)*
+## Some of my projects
+  - **StockExchange** (https://github.com/InSleepMode/StockExchange)
+  - **Base32 code/decode** (https://github.com/amcp-pit/op24-task9-crockford-InSleepMode)
+  - **Class DateTime** (https://github.com/amcp-pit/task1-datetime-InSleepMode)
+  - **Post machine** (https://github.com/amcp-pit/pl-post-machine-InSleepMode)
+  - **RSA** (https://github.com/amcp-pit/task4-rsa-InSleepMode)
   - **C++ MATLAB** (https://github.com/amcp-pit/pl-matrixlab-InSleepMode)
   - **C++ Boolean Expression Calculator** (https://github.com/amcp-pit/pl-boolcalc-InSleepMode)
-- *Machines realisation in C++ (2025-2026)*
+- *Machines realisation in C++*
   - **TuringMachine** (https://github.com/amcp-pit/task3-busy-beaver-InSleepMode)
   - **PostMachine** (https://github.com/amcp-pit/pl-post-machine-InSleepMode)
   - **Brain Fck** (https://github.com/amcp-pit/pl-brainfuck-InSleepMode)
