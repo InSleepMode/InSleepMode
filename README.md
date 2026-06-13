@@ -1,4 +1,3 @@
-
 ## About myself
 - **Education:**
   - SPbU student AMCP (2024-2028)
@@ -29,11 +28,8 @@
 ## Some of my projects
   - **StockExchange** (https://github.com/InSleepMode/StockExchange)
   - **RSA** (https://github.com/InSleepMode/RSA)
-  - **Base32 code/decode** (https://github.com/amcp-pit/op24-task9-crockford-InSleepMode)
-  - **Class DateTime** (https://github.com/amcp-pit/task1-datetime-InSleepMode)
-  - **Post machine** (https://github.com/amcp-pit/pl-post-machine-InSleepMode)
-  - **C++ MATLAB** (https://github.com/amcp-pit/pl-matrixlab-InSleepMode)
-  - **C++ Boolean Expression Calculator** (https://github.com/amcp-pit/pl-boolcalc-InSleepMode)
+  - **C++ MATLAB** (https://github.com/InSleepMode/MATLAB_CPP)
+  - **C++ Boolean Expression Calculator** (https://github.com/InSleepMode/Boolean-Calculator)
 - *Machines realisation in C++*
   - **TuringMachine** (https://github.com/amcp-pit/task3-busy-beaver-InSleepMode)
   - **PostMachine** (https://github.com/amcp-pit/pl-post-machine-InSleepMode)
