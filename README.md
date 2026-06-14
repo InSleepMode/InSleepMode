@@ -31,7 +31,7 @@
   - **C++ MATLAB** (https://github.com/InSleepMode/MATLAB_CPP)
   - **C++ Boolean Expression Calculator** (https://github.com/InSleepMode/Boolean-Calculator)
 - *Machines realisation in C++*
-  - **TuringMachine** (https://github.com/amcp-pit/task3-busy-beaver-InSleepMode)
+  - **TuringMachine** (https://github.com/InSleepMode/TuringMachine)
   - **PostMachine** (https://github.com/amcp-pit/pl-post-machine-InSleepMode)
   - **Brain Fck** (https://github.com/amcp-pit/pl-brainfuck-InSleepMode)
   
