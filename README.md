@@ -3,13 +3,12 @@
   - SPbU student AMCP (2024-2028)
 ---
 
-## Skills
 - **Programming Languages:** C++, C, С#, Python, Golang
 - **Algorithms and data structures**
 - **English:** Level (C1)  
 ---
 
-## Syberix (CEO)
+## Siberyx (CEO)
  - link for a project: (https://github.com/Siberyx)
  - A system for analyzing and forecasting cryptocurrency and foreign exchange markets using data and technical analysis.
  - SmartMoney concept and Technical Analysis strategy creator 
