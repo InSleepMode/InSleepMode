@@ -20,7 +20,6 @@
   - **RSA** (https://github.com/InSleepMode/RSA)
   - **C++ MATLAB** (https://github.com/InSleepMode/MATLAB_CPP)
   - **C++ Boolean Expression Calculator** (https://github.com/InSleepMode/Boolean-Calculator)
-  - **Python SmartMoney concept and Technical Analysis strategy creator** (https://github.com/Siberyx)
 - *Machines realisation in C++*
   - **TuringMachine** (https://github.com/InSleepMode/TuringMachine)
   - **PostMachine** (https://github.com/InSleepMode/PostMachine)
